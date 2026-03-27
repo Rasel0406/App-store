@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Facebook",
+    "companyName": "Meta",
+    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432",
+    "description": "Social media app to connect with friends",
+    "size": 75,
+    "reviews": 1200000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 590000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Instagram",
+    "companyName": "Meta",
+    "image": "https://images.unsplash.com/photo-1611162616475-46b635cb6868",
+    "description": "Photo and video sharing app",
+    "size": 82,
+    "reviews": 900000,
+    "ratingAvg": 4.5,
+    "downloads": 4000000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 440000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "WhatsApp",
+    "companyName": "Meta",
+    "image": "https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea",
+    "description": "Messaging app for chat and calls",
+    "size": 68,
+    "reviews": 2000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1390000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "YouTube",
+    "companyName": "Google",
+    "image": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb",
+    "description": "Video streaming platform",
+    "size": 95,
+    "reviews": 1500000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 690000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Twitter",
+    "companyName": "X Corp",
+    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432",
+    "description": "Social news and microblogging",
+    "size": 60,
+    "reviews": 500000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 230000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Spotify",
+    "companyName": "Spotify Ltd",
+    "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff",
+    "description": "Music streaming app",
+    "size": 88,
+    "reviews": 700000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 420000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Netflix",
+    "companyName": "Netflix Inc",
+    "image": "https://images.unsplash.com/photo-1586899028174-e7098604235b",
+    "description": "Movie and series streaming",
+    "size": 110,
+    "reviews": 800000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 350000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Telegram",
+    "companyName": "Telegram LLC",
+    "image": "https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea",
+    "description": "Fast and secure messaging",
+    "size": 72,
+    "reviews": 600000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 385000 }
+    ]
+  }
+]
