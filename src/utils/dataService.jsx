@@ -8,7 +8,10 @@ const fetchJson = async (path) => {
   return response.json()
 }
 
-export const loadHomeApps = () => fetchJson('/home.json')
+export const loadHomeApps = async () => {
+  const apps = await loadAllApps()
+  return apps.slice(0, 8)
+}
 
 export const loadAllApps = () => fetchJson('/AllApp.json')
 

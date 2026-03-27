@@ -39,7 +39,7 @@ const AppDetails = () => {
 
   if (!app) {
     return (
-      <section className="space-y-6 rounded-[32px] bg-white p-10 text-center shadow-lg">
+      <section className="space-y-6 rounded-4xl bg-white p-10 text-center shadow-lg">
         <img src={errorArtwork} alt="Not found" className="mx-auto w-full max-w-md" />
         <h1 className="text-4xl font-semibold text-slate-900">Opps!! App Not Found</h1>
         <p className="text-lg text-slate-500">
@@ -53,71 +53,55 @@ const AppDetails = () => {
   }
 
   const metrics = [
-    {
-      id: 'downloads',
-      label: 'Downloads',
-      value: formatDownloads(app.downloads),
-      icon: faDownload,
-      accent: '#15B26B',
-    },
-    {
-      id: 'rating',
-      label: 'Average Ratings',
-      value: formatRating(app.ratingAvg),
-      icon: faStar,
-      accent: '#F78B2D',
-    },
-    {
-      id: 'reviews',
-      label: 'Total Reviews',
-      value: formatPlainNumber(app.reviews),
-      icon: faComments,
-      accent: '#6C4FFF',
-    },
+    { id: 'downloads', label: 'Downloads', value: formatDownloads(app.downloads), icon: faDownload },
+    { id: 'rating', label: 'Average Ratings', value: formatRating(app.ratingAvg), icon: faStar },
+    { id: 'reviews', label: 'Total Reviews', value: formatPlainNumber(app.reviews), icon: faComments },
   ]
 
-  const ratingValues = app.ratings?.map((rating) => rating.count) || []
-  const maxRatingValue = ratingValues.length ? Math.max(...ratingValues) : 0
+  const ratings = app.ratings ?? []
+  const ratingValues = ratings.map((rating) => rating.count)
+  const maxRatingValue = ratingValues.length > 0 ? Math.max(...ratingValues) : 0
   const ratingStep = Math.max(1000, Math.ceil(maxRatingValue / 4 / 1000) * 1000)
   const ratingTicks = Array.from({ length: 5 }, (_, index) => ratingStep * index)
 
-  const renderRatingWidth = (value) => {
+  const getBarWidth = (value) => {
     if (!maxRatingValue) {
       return '0%'
     }
     return `${(value / maxRatingValue) * 100}%`
   }
 
-  const descriptionParagraphs = app.description
-    ? app.description.split('\n').map((paragraph) => paragraph.trim()).filter(Boolean)
-    : []
+  const descriptionParagraphs = (app.description ?? '')
+    .split('\n')
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean)
 
   return (
-    <section className="py-8">
-      <div className="space-y-12 rounded-[40px] bg-white p-8 shadow-[0_40px_80px_rgba(15,23,42,0.08)]">
-        <div className="grid gap-10 lg:grid-cols-[320px_1fr]">
-          <div className="rounded-[32px] border border-slate-200 bg-[#EEF2FB] p-8">
-            <img src={app.image} alt={`${app.title} logo`} className="mx-auto w-full max-w-[260px]" />
+    <section className="py-6">
+      <div className="space-y-8 border border-slate-200 bg-white px-8 py-10 lg:px-16">
+        <div className="grid gap-10 lg:grid-cols-[420px_1fr] lg:items-start">
+          <div className="rounded-[10px] border border-slate-200 bg-white p-3 shadow-sm">
+            <img src={app.image} alt={`${app.title} logo`} className="h-60 w-full rounded-lg object-contain" />
           </div>
 
-          <div className="space-y-8">
-            <div className="space-y-3">
-              <p className="text-sm text-slate-500">
-                Developed by <span className="font-semibold text-[#4C64FF]">{app.companyName}</span>
+          <div className="space-y-6">
+            <div className="space-y-2 border-b border-[#6C4FFF] pb-4">
+              <h1 className="text-5xl font-semibold leading-tight text-[#2C2F67] sm:text-4xl">{app.title}</h1>
+              <p className="text-[20px] text-slate-700 sm:text-lg">
+                Developed by <span className="font-semibold text-[#5D43E8]">{app.companyName}</span>
               </p>
-              <h1 className="text-4xl font-semibold text-slate-900">{app.title}</h1>
             </div>
 
-            <div className="grid gap-6 sm:grid-cols-3">
+            <div className="flex flex-wrap items-center gap-3 sm:gap-0">
               {metrics.map((metric) => (
-                <div key={metric.id} className="flex items-center gap-4 rounded-[28px] border border-slate-200 px-5 py-5">
-                  <span className="flex h-12 w-12 items-center justify-center rounded-2xl text-white" style={{ backgroundColor: metric.accent }}>
-                    <FontAwesomeIcon icon={metric.icon} className="h-5 w-5" aria-hidden="true" />
-                  </span>
+                <div key={metric.id} className="flex min-w-45 items-center gap-4 border-slate-200 px-4 py-2 sm:not-last:border-r">
                   <div>
                     <p className="text-sm text-slate-500">{metric.label}</p>
-                    <p className="text-2xl font-semibold text-slate-900">{metric.value}</p>
+                    <p className="text-5xl font-bold leading-none text-slate-900 sm:text-4xl">{metric.value}</p>
                   </div>
+                  <span className="flex h-10 w-10 items-center justify-center rounded-md bg-[#6C4FFF] text-white">
+                    <FontAwesomeIcon icon={metric.icon} className="h-5 w-5" aria-hidden="true" />
+                  </span>
                 </div>
               ))}
             </div>
@@ -125,7 +109,7 @@ const AppDetails = () => {
             <button
               type="button"
               onClick={handleInstall}
-              className="inline-flex items-center justify-center rounded-xl bg-[#14B669] px-8 py-3 text-base font-semibold text-white"
+              className="inline-flex items-center justify-center rounded-lg bg-[#10C98D] px-10 py-3 text-4xl font-semibold text-white shadow-[0_8px_20px_rgba(16,201,141,0.25)] sm:text-2xl"
               disabled={installed}
             >
               {installed ? 'Installed' : `Install Now (${app.size} MB)`}
@@ -133,41 +117,38 @@ const AppDetails = () => {
           </div>
         </div>
 
-        <div className="space-y-6 border-t border-slate-200 pt-8">
-          <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-            <div>
-              <p className="text-sm font-semibold uppercase tracking-[0.35em] text-[#6C4FFF]">Ratings</p>
-              <h2 className="text-3xl font-semibold text-slate-900">Review Breakdown</h2>
-            </div>
-            <span className="rounded-full border border-slate-200 px-5 py-2 text-sm font-semibold text-slate-700">
-              Overall {formatRating(app.ratingAvg)} ★
-            </span>
-          </div>
+        <div className="space-y-6 border-t border-slate-200 pt-6">
+          <h2 className="text-5xl font-semibold text-[#2C2F67] sm:text-4xl">Ratings</h2>
 
-          <div className="space-y-5">
-            {app.ratings?.map((rating) => (
+          <div className="space-y-4">
+            {ratings.map((rating) => (
               <div key={rating.name} className="flex items-center gap-4">
-                <span className="w-16 text-sm font-medium text-slate-500">{rating.name}</span>
-                <div className="h-4 flex-1 rounded-full bg-slate-100">
+                <span className="w-16 text-2xl text-slate-500 sm:text-base">{rating.name}</span>
+                <div className="h-4 flex-1 bg-slate-100">
                   <div
-                    className="h-full rounded-full bg-[#FF8A00]"
-                    style={{ width: renderRatingWidth(rating.count) }}
+                    className="h-full bg-[#10C98D]"
+                    style={{ width: getBarWidth(rating.count) }}
                   />
                 </div>
               </div>
             ))}
           </div>
 
-          <div className="flex justify-between border-t border-slate-100 pt-4 text-xs font-semibold text-slate-400">
+          <div className="flex justify-between border-t border-slate-300 pt-2 text-xl font-medium text-slate-500 sm:text-sm">
             {ratingTicks.map((tick) => (
               <span key={tick}>{String(tick)}</span>
             ))}
           </div>
+
+          <div className="flex items-center justify-center gap-2 text-xl font-semibold text-[#10C98D] sm:text-base">
+            <span className="h-3 w-3 bg-[#10C98D]" aria-hidden="true" />
+            <span>count</span>
+          </div>
         </div>
 
-        <div className="border-t border-slate-200 pt-8">
-          <h3 className="text-2xl font-semibold text-slate-900">Description</h3>
-          <div className="mt-4 space-y-4 text-base leading-relaxed text-slate-600">
+        <div className="space-y-4 border-t border-slate-200 pt-6">
+          <h3 className="text-5xl font-semibold text-[#2C2F67] sm:text-4xl">Description</h3>
+          <div className="space-y-4 text-[28px] leading-relaxed text-slate-600 sm:text-base">
             {descriptionParagraphs.length > 0 ? (
               descriptionParagraphs.map((paragraph, index) => <p key={`desc-${index}`}>{paragraph}</p>)
             ) : (

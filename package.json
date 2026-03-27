@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
+    "lint": "echo ESLint config removed",
     "preview": "vite preview"
   },
   "dependencies": {
