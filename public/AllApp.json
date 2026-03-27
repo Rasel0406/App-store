@@ -1,1982 +1,1982 @@
 [
-{
-"id": 1,
-"title": "Facebook",
-"companyName": "Meta",
-"image": "https://cdn.simpleicons.org/facebook",
-"description": "Facebook app",
-"size": 70,
-"reviews": 120000,
-"ratingAvg": 4.3,
-"downloads": 5000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 1000
-},
-{
-"name": "2 star",
-"count": 2000
-},
-{
-"name": "3 star",
-"count": 5000
-},
-{
-"name": "4 star",
-"count": 20000
-},
-{
-"name": "5 star",
-"count": 92000
-}
-]
-},
-{
-"id": 2,
-"title": "Instagram",
-"companyName": "Meta",
-"image": "https://cdn.simpleicons.org/instagram",
-"description": "Instagram app",
-"size": 80,
-"reviews": 110000,
-"ratingAvg": 4.5,
-"downloads": 4000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 1000
-},
-{
-"name": "2 star",
-"count": 2000
-},
-{
-"name": "3 star",
-"count": 4000
-},
-{
-"name": "4 star",
-"count": 25000
-},
-{
-"name": "5 star",
-"count": 78000
-}
-]
-},
-{
-"id": 3,
-"title": "WhatsApp",
-"companyName": "Meta",
-"image": "https://cdn.simpleicons.org/whatsapp",
-"description": "WhatsApp app",
-"size": 65,
-"reviews": 200000,
-"ratingAvg": 4.6,
-"downloads": 5000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 2000
-},
-{
-"name": "2 star",
-"count": 3000
-},
-{
-"name": "3 star",
-"count": 6000
-},
-{
-"name": "4 star",
-"count": 40000
-},
-{
-"name": "5 star",
-"count": 149000
-}
-]
-},
-{
-"id": 4,
-"title": "YouTube",
-"companyName": "Google",
-"image": "https://cdn.simpleicons.org/youtube",
-"description": "YouTube app",
-"size": 95,
-"reviews": 150000,
-"ratingAvg": 4.4,
-"downloads": 10000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 2000
-},
-{
-"name": "2 star",
-"count": 3000
-},
-{
-"name": "3 star",
-"count": 7000
-},
-{
-"name": "4 star",
-"count": 50000
-},
-{
-"name": "5 star",
-"count": 88000
-}
-]
-},
-{
-"id": 5,
-"title": "Twitter",
-"companyName": "X",
-"image": "https://cdn.simpleicons.org/twitter",
-"description": "Twitter app",
-"size": 60,
-"reviews": 90000,
-"ratingAvg": 4.1,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 2000
-},
-{
-"name": "2 star",
-"count": 4000
-},
-{
-"name": "3 star",
-"count": 8000
-},
-{
-"name": "4 star",
-"count": 20000
-},
-{
-"name": "5 star",
-"count": 56000
-}
-]
-},
-{
-"id": 6,
-"title": "Spotify",
-"companyName": "Spotify",
-"image": "https://cdn.simpleicons.org/spotify",
-"description": "Spotify app",
-"size": 85,
-"reviews": 90000,
-"ratingAvg": 4.6,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 1000
-},
-{
-"name": "2 star",
-"count": 2000
-},
-{
-"name": "3 star",
-"count": 4000
-},
-{
-"name": "4 star",
-"count": 20000
-},
-{
-"name": "5 star",
-"count": 63000
-}
-]
-},
-{
-"id": 7,
-"title": "Netflix",
-"companyName": "Netflix",
-"image": "https://cdn.simpleicons.org/netflix",
-"description": "Netflix app",
-"size": 110,
-"reviews": 80000,
-"ratingAvg": 4.4,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 2000
-},
-{
-"name": "2 star",
-"count": 3000
-},
-{
-"name": "3 star",
-"count": 5000
-},
-{
-"name": "4 star",
-"count": 20000
-},
-{
-"name": "5 star",
-"count": 50000
-}
-]
-},
-{
-"id": 8,
-"title": "Telegram",
-"companyName": "Telegram",
-"image": "https://cdn.simpleicons.org/telegram",
-"description": "Telegram app",
-"size": 72,
-"reviews": 60000,
-"ratingAvg": 4.7,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 1000
-},
-{
-"name": "2 star",
-"count": 1500
-},
-{
-"name": "3 star",
-"count": 3000
-},
-{
-"name": "4 star",
-"count": 15000
-},
-{
-"name": "5 star",
-"count": 39500
-}
-]
-},
-{
-"id": 9,
-"title": "Discord",
-"companyName": "Discord",
-"image": "https://cdn.simpleicons.org/discord",
-"description": "Discord app",
-"size": 90,
-"reviews": 50000,
-"ratingAvg": 4.6,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 500
-},
-{
-"name": "2 star",
-"count": 1000
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 12000
-},
-{
-"name": "5 star",
-"count": 34500
-}
-]
-},
-{
-"id": 10,
-"title": "LinkedIn",
-"companyName": "Microsoft",
-"image": "https://cdn.simpleicons.org/linkedin",
-"description": "LinkedIn app",
-"size": 88,
-"reviews": 45000,
-"ratingAvg": 4.4,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 600
-},
-{
-"name": "2 star",
-"count": 1200
-},
-{
-"name": "3 star",
-"count": 3000
-},
-{
-"name": "4 star",
-"count": 10000
-},
-{
-"name": "5 star",
-"count": 30200
-}
-]
-},
-{
-"id": 11,
-"title": "Snapchat",
-"companyName": "Snap",
-"image": "https://cdn.simpleicons.org/snapchat",
-"description": "Snapchat app",
-"size": 75,
-"reviews": 50000,
-"ratingAvg": 4.2,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 500
-},
-{
-"name": "2 star",
-"count": 1000
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 12000
-},
-{
-"name": "5 star",
-"count": 34500
-}
-]
-},
-{
-"id": 12,
-"title": "Pinterest",
-"companyName": "Pinterest",
-"image": "https://cdn.simpleicons.org/pinterest",
-"description": "Pinterest app",
-"size": 70,
-"reviews": 40000,
-"ratingAvg": 4.3,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 500
-},
-{
-"name": "2 star",
-"count": 1000
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 12000
-},
-{
-"name": "5 star",
-"count": 24500
-}
-]
-},
-{
-"id": 13,
-"title": "Reddit",
-"companyName": "Reddit",
-"image": "https://cdn.simpleicons.org/reddit",
-"description": "Reddit app",
-"size": 80,
-"reviews": 45000,
-"ratingAvg": 4.5,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 400
-},
-{
-"name": "2 star",
-"count": 900
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 11000
-},
-{
-"name": "5 star",
-"count": 30100
-}
-]
-},
-{
-"id": 14,
-"title": "Uber",
-"companyName": "Uber",
-"image": "https://cdn.simpleicons.org/uber",
-"description": "Uber app",
-"size": 85,
-"reviews": 60000,
-"ratingAvg": 4.4,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 600
-},
-{
-"name": "2 star",
-"count": 1100
-},
-{
-"name": "3 star",
-"count": 3000
-},
-{
-"name": "4 star",
-"count": 15000
-},
-{
-"name": "5 star",
-"count": 40300
-}
-]
-},
-{
-"id": 15,
-"title": "Airbnb",
-"companyName": "Airbnb",
-"image": "https://cdn.simpleicons.org/airbnb",
-"description": "Airbnb app",
-"size": 95,
-"reviews": 55000,
-"ratingAvg": 4.6,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 400
-},
-{
-"name": "2 star",
-"count": 900
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 15000
-},
-{
-"name": "5 star",
-"count": 37700
-}
-]
-},
-{
-"id": 16,
-"title": "PayPal",
-"companyName": "PayPal",
-"image": "https://cdn.simpleicons.org/paypal",
-"description": "PayPal app",
-"size": 65,
-"reviews": 70000,
-"ratingAvg": 4.5,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 700
-},
-{
-"name": "2 star",
-"count": 1200
-},
-{
-"name": "3 star",
-"count": 2500
-},
-{
-"name": "4 star",
-"count": 17000
-},
-{
-"name": "5 star",
-"count": 48600
-}
-]
-},
-{
-"id": 17,
-"title": "Amazon",
-"companyName": "Amazon",
-"image": "https://cdn.simpleicons.org/amazon",
-"description": "Amazon app",
-"size": 100,
-"reviews": 150000,
-"ratingAvg": 4.6,
-"downloads": 5000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 2000
-},
-{
-"name": "2 star",
-"count": 3000
-},
-{
-"name": "3 star",
-"count": 5000
-},
-{
-"name": "4 star",
-"count": 30000
-},
-{
-"name": "5 star",
-"count": 110000
-}
-]
-},
-{
-"id": 18,
-"title": "Google",
-"companyName": "Google",
-"image": "https://cdn.simpleicons.org/google",
-"description": "Google app",
-"size": 50,
-"reviews": 200000,
-"ratingAvg": 4.7,
-"downloads": 10000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 2000
-},
-{
-"name": "2 star",
-"count": 3000
-},
-{
-"name": "3 star",
-"count": 5000
-},
-{
-"name": "4 star",
-"count": 40000
-},
-{
-"name": "5 star",
-"count": 150000
-}
-]
-},
-{
-"id": 19,
-"title": "Chrome",
-"companyName": "Google",
-"image": "https://cdn.simpleicons.org/googlechrome",
-"description": "Chrome browser",
-"size": 120,
-"reviews": 210000,
-"ratingAvg": 4.6,
-"downloads": 10000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 3000
-},
-{
-"name": "2 star",
-"count": 4000
-},
-{
-"name": "3 star",
-"count": 6000
-},
-{
-"name": "4 star",
-"count": 50000
-},
-{
-"name": "5 star",
-"count": 147000
-}
-]
-},
-{
-"id": 20,
-"title": "Gmail",
-"companyName": "Google",
-"image": "https://cdn.simpleicons.org/gmail",
-"description": "Gmail app",
-"size": 45,
-"reviews": 180000,
-"ratingAvg": 4.7,
-"downloads": 10000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 2000
-},
-{
-"name": "2 star",
-"count": 3000
-},
-{
-"name": "3 star",
-"count": 5000
-},
-{
-"name": "4 star",
-"count": 40000
-},
-{
-"name": "5 star",
-"count": 130000
-}
-]
-},
-{
-"id": 21,
-"title": "Google Maps",
-"companyName": "Google",
-"image": "https://cdn.simpleicons.org/googlemaps",
-"description": "Maps app",
-"size": 95,
-"reviews": 150000,
-"ratingAvg": 4.6,
-"downloads": 5000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 2000
-},
-{
-"name": "2 star",
-"count": 3000
-},
-{
-"name": "3 star",
-"count": 5000
-},
-{
-"name": "4 star",
-"count": 30000
-},
-{
-"name": "5 star",
-"count": 110000
-}
-]
-},
-{
-"id": 22,
-"title": "Google Drive",
-"companyName": "Google",
-"image": "https://cdn.simpleicons.org/googledrive",
-"description": "Drive app",
-"size": 80,
-"reviews": 120000,
-"ratingAvg": 4.5,
-"downloads": 5000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 1500
-},
-{
-"name": "2 star",
-"count": 2500
-},
-{
-"name": "3 star",
-"count": 4000
-},
-{
-"name": "4 star",
-"count": 25000
-},
-{
-"name": "5 star",
-"count": 87000
-}
-]
-},
-{
-"id": 23,
-"title": "Google Photos",
-"companyName": "Google",
-"image": "https://cdn.simpleicons.org/googlephotos",
-"description": "Photos app",
-"size": 75,
-"reviews": 110000,
-"ratingAvg": 4.6,
-"downloads": 5000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 1200
-},
-{
-"name": "2 star",
-"count": 2000
-},
-{
-"name": "3 star",
-"count": 3500
-},
-{
-"name": "4 star",
-"count": 22000
-},
-{
-"name": "5 star",
-"count": 82300
-}
-]
-},
-{
-"id": 24,
-"title": "Microsoft",
-"companyName": "Microsoft",
-"image": "https://cdn.simpleicons.org/microsoft",
-"description": "Microsoft app",
-"size": 60,
-"reviews": 90000,
-"ratingAvg": 4.4,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 1000
-},
-{
-"name": "2 star",
-"count": 2000
-},
-{
-"name": "3 star",
-"count": 4000
-},
-{
-"name": "4 star",
-"count": 18000
-},
-{
-"name": "5 star",
-"count": 65000
-}
-]
-},
-{
-"id": 25,
-"title": "Word",
-"companyName": "Microsoft",
-"image": "https://cdn.simpleicons.org/microsoftword",
-"description": "Word app",
-"size": 85,
-"reviews": 95000,
-"ratingAvg": 4.5,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 1000
-},
-{
-"name": "2 star",
-"count": 2000
-},
-{
-"name": "3 star",
-"count": 3000
-},
-{
-"name": "4 star",
-"count": 20000
-},
-{
-"name": "5 star",
-"count": 69000
-}
-]
-},
-{
-"id": 26,
-"title": "Excel",
-"companyName": "Microsoft",
-"image": "https://cdn.simpleicons.org/microsoftexcel",
-"description": "Excel app",
-"size": 90,
-"reviews": 90000,
-"ratingAvg": 4.6,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 900
-},
-{
-"name": "2 star",
-"count": 1500
-},
-{
-"name": "3 star",
-"count": 2500
-},
-{
-"name": "4 star",
-"count": 20000
-},
-{
-"name": "5 star",
-"count": 65100
-}
-]
-},
-{
-"id": 27,
-"title": "PowerPoint",
-"companyName": "Microsoft",
-"image": "https://cdn.simpleicons.org/microsoftpowerpoint",
-"description": "PowerPoint app",
-"size": 92,
-"reviews": 88000,
-"ratingAvg": 4.5,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 800
-},
-{
-"name": "2 star",
-"count": 1500
-},
-{
-"name": "3 star",
-"count": 2500
-},
-{
-"name": "4 star",
-"count": 19000
-},
-{
-"name": "5 star",
-"count": 64200
-}
-]
-},
-{
-"id": 28,
-"title": "Outlook",
-"companyName": "Microsoft",
-"image": "https://cdn.simpleicons.org/microsoftoutlook",
-"description": "Outlook app",
-"size": 70,
-"reviews": 75000,
-"ratingAvg": 4.4,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 700
-},
-{
-"name": "2 star",
-"count": 1200
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 15000
-},
-{
-"name": "5 star",
-"count": 56100
-}
-]
-},
-{
-"id": 29,
-"title": "OneDrive",
-"companyName": "Microsoft",
-"image": "https://cdn.simpleicons.org/microsoftonedrive",
-"description": "OneDrive app",
-"size": 68,
-"reviews": 65000,
-"ratingAvg": 4.5,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 600
-},
-{
-"name": "2 star",
-"count": 1100
-},
-{
-"name": "3 star",
-"count": 1800
-},
-{
-"name": "4 star",
-"count": 14000
-},
-{
-"name": "5 star",
-"count": 47500
-}
-]
-},
-{
-"id": 30,
-"title": "Xbox",
-"companyName": "Microsoft",
-"image": "https://cdn.simpleicons.org/xbox",
-"description": "Xbox app",
-"size": 100,
-"reviews": 70000,
-"ratingAvg": 4.6,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 500
-},
-{
-"name": "2 star",
-"count": 900
-},
-{
-"name": "3 star",
-"count": 1600
-},
-{
-"name": "4 star",
-"count": 15000
-},
-{
-"name": "5 star",
-"count": 52000
-}
-]
-},
-{
-"id": 31,
-"title": "TikTok",
-"companyName": "ByteDance",
-"image": "https://cdn.simpleicons.org/tiktok",
-"description": "TikTok app",
-"size": 95,
-"reviews": 200000,
-"ratingAvg": 4.4,
-"downloads": 5000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 3000
-},
-{
-"name": "2 star",
-"count": 4000
-},
-{
-"name": "3 star",
-"count": 6000
-},
-{
-"name": "4 star",
-"count": 50000
-},
-{
-"name": "5 star",
-"count": 137000
-}
-]
-},
-{
-"id": 32,
-"title": "CapCut",
-"companyName": "ByteDance",
-"image": "https://cdn.simpleicons.org/capcut",
-"description": "CapCut app",
-"size": 85,
-"reviews": 150000,
-"ratingAvg": 4.6,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 2000
-},
-{
-"name": "2 star",
-"count": 3000
-},
-{
-"name": "3 star",
-"count": 5000
-},
-{
-"name": "4 star",
-"count": 30000
-},
-{
-"name": "5 star",
-"count": 110000
-}
-]
-},
-{
-"id": 33,
-"title": "Canva",
-"companyName": "Canva",
-"image": "https://cdn.simpleicons.org/canva",
-"description": "Canva app",
-"size": 90,
-"reviews": 140000,
-"ratingAvg": 4.7,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 1000
-},
-{
-"name": "2 star",
-"count": 2000
-},
-{
-"name": "3 star",
-"count": 4000
-},
-{
-"name": "4 star",
-"count": 25000
-},
-{
-"name": "5 star",
-"count": 108000
-}
-]
-},
-{
-"id": 34,
-"title": "Zoom",
-"companyName": "Zoom",
-"image": "https://cdn.simpleicons.org/zoom",
-"description": "Zoom app",
-"size": 75,
-"reviews": 130000,
-"ratingAvg": 4.5,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 1200
-},
-{
-"name": "2 star",
-"count": 2500
-},
-{
-"name": "3 star",
-"count": 4000
-},
-{
-"name": "4 star",
-"count": 26000
-},
-{
-"name": "5 star",
-"count": 96300
-}
-]
-},
-{
-"id": 35,
-"title": "Skype",
-"companyName": "Microsoft",
-"image": "https://cdn.simpleicons.org/skype",
-"description": "Skype app",
-"size": 70,
-"reviews": 60000,
-"ratingAvg": 4.3,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 800
-},
-{
-"name": "2 star",
-"count": 1200
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 15000
-},
-{
-"name": "5 star",
-"count": 41000
-}
-]
-},
-{
-"id": 36,
-"title": "Slack",
-"companyName": "Slack",
-"image": "https://cdn.simpleicons.org/slack",
-"description": "Slack app",
-"size": 80,
-"reviews": 50000,
-"ratingAvg": 4.4,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 600
-},
-{
-"name": "2 star",
-"count": 1000
-},
-{
-"name": "3 star",
-"count": 1800
-},
-{
-"name": "4 star",
-"count": 12000
-},
-{
-"name": "5 star",
-"count": 34600
-}
-]
-},
-{
-"id": 37,
-"title": "Notion",
-"companyName": "Notion",
-"image": "https://cdn.simpleicons.org/notion",
-"description": "Notion app",
-"size": 85,
-"reviews": 45000,
-"ratingAvg": 4.6,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 400
-},
-{
-"name": "2 star",
-"count": 800
-},
-{
-"name": "3 star",
-"count": 1500
-},
-{
-"name": "4 star",
-"count": 11000
-},
-{
-"name": "5 star",
-"count": 31200
-}
-]
-},
-{
-"id": 38,
-"title": "Trello",
-"companyName": "Atlassian",
-"image": "https://cdn.simpleicons.org/trello",
-"description": "Trello app",
-"size": 78,
-"reviews": 42000,
-"ratingAvg": 4.5,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 300
-},
-{
-"name": "2 star",
-"count": 700
-},
-{
-"name": "3 star",
-"count": 1300
-},
-{
-"name": "4 star",
-"count": 10000
-},
-{
-"name": "5 star",
-"count": 29700
-}
-]
-},
-{
-"id": 39,
-"title": "GitHub",
-"companyName": "GitHub",
-"image": "https://cdn.simpleicons.org/github",
-"description": "GitHub app",
-"size": 65,
-"reviews": 50000,
-"ratingAvg": 4.7,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 300
-},
-{
-"name": "2 star",
-"count": 500
-},
-{
-"name": "3 star",
-"count": 900
-},
-{
-"name": "4 star",
-"count": 9000
-},
-{
-"name": "5 star",
-"count": 39200
-}
-]
-},
-{
-"id": 40,
-"title": "GitLab",
-"companyName": "GitLab",
-"image": "https://cdn.simpleicons.org/gitlab",
-"description": "GitLab app",
-"size": 60,
-"reviews": 35000,
-"ratingAvg": 4.5,
-"downloads": 100000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 200
-},
-{
-"name": "2 star",
-"count": 400
-},
-{
-"name": "3 star",
-"count": 800
-},
-{
-"name": "4 star",
-"count": 7000
-},
-{
-"name": "5 star",
-"count": 26600
-}
-]
-},
-{
-"id": 41,
-"title": "Adobe",
-"companyName": "Adobe",
-"image": "https://cdn.simpleicons.org/adobe",
-"description": "Adobe app",
-"size": 100,
-"reviews": 80000,
-"ratingAvg": 4.6,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 800
-},
-{
-"name": "2 star",
-"count": 1200
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 18000
-},
-{
-"name": "5 star",
-"count": 58000
-}
-]
-},
-{
-"id": 42,
-"title": "Photoshop",
-"companyName": "Adobe",
-"image": "https://cdn.simpleicons.org/adobephotoshop",
-"description": "Photoshop app",
-"size": 150,
-"reviews": 90000,
-"ratingAvg": 4.7,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 700
-},
-{
-"name": "2 star",
-"count": 1000
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 20000
-},
-{
-"name": "5 star",
-"count": 66300
-}
-]
-},
-{
-"id": 43,
-"title": "Illustrator",
-"companyName": "Adobe",
-"image": "https://cdn.simpleicons.org/adobeillustrator",
-"description": "Illustrator app",
-"size": 140,
-"reviews": 70000,
-"ratingAvg": 4.6,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 600
-},
-{
-"name": "2 star",
-"count": 900
-},
-{
-"name": "3 star",
-"count": 1500
-},
-{
-"name": "4 star",
-"count": 16000
-},
-{
-"name": "5 star",
-"count": 51000
-}
-]
-},
-{
-"id": 44,
-"title": "Figma",
-"companyName": "Figma",
-"image": "https://cdn.simpleicons.org/figma",
-"description": "Figma app",
-"size": 90,
-"reviews": 60000,
-"ratingAvg": 4.7,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 500
-},
-{
-"name": "2 star",
-"count": 700
-},
-{
-"name": "3 star",
-"count": 1200
-},
-{
-"name": "4 star",
-"count": 15000
-},
-{
-"name": "5 star",
-"count": 42600
-}
-]
-},
-{
-"id": 45,
-"title": "Blender",
-"companyName": "Blender",
-"image": "https://cdn.simpleicons.org/blender",
-"description": "Blender app",
-"size": 200,
-"reviews": 65000,
-"ratingAvg": 4.8,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 400
-},
-{
-"name": "2 star",
-"count": 600
-},
-{
-"name": "3 star",
-"count": 900
-},
-{
-"name": "4 star",
-"count": 14000
-},
-{
-"name": "5 star",
-"count": 49100
-}
-]
-},
-{
-"id": 46,
-"title": "Unity",
-"companyName": "Unity",
-"image": "https://cdn.simpleicons.org/unity",
-"description": "Unity app",
-"size": 220,
-"reviews": 70000,
-"ratingAvg": 4.7,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 500
-},
-{
-"name": "2 star",
-"count": 800
-},
-{
-"name": "3 star",
-"count": 1200
-},
-{
-"name": "4 star",
-"count": 15000
-},
-{
-"name": "5 star",
-"count": 52500
-}
-]
-},
-{
-"id": 47,
-"title": "Unreal",
-"companyName": "Epic",
-"image": "https://cdn.simpleicons.org/unrealengine",
-"description": "Unreal app",
-"size": 230,
-"reviews": 65000,
-"ratingAvg": 4.8,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 400
-},
-{
-"name": "2 star",
-"count": 600
-},
-{
-"name": "3 star",
-"count": 900
-},
-{
-"name": "4 star",
-"count": 13000
-},
-{
-"name": "5 star",
-"count": 50100
-}
-]
-},
-{
-"id": 48,
-"title": "Steam",
-"companyName": "Valve",
-"image": "https://cdn.simpleicons.org/steam",
-"description": "Steam app",
-"size": 120,
-"reviews": 90000,
-"ratingAvg": 4.7,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 1000
-},
-{
-"name": "2 star",
-"count": 2000
-},
-{
-"name": "3 star",
-"count": 3000
-},
-{
-"name": "4 star",
-"count": 25000
-},
-{
-"name": "5 star",
-"count": 59000
-}
-]
-},
-{
-"id": 49,
-"title": "Epic Games",
-"companyName": "Epic",
-"image": "https://cdn.simpleicons.org/epicgames",
-"description": "Epic app",
-"size": 110,
-"reviews": 85000,
-"ratingAvg": 4.6,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 900
-},
-{
-"name": "2 star",
-"count": 1800
-},
-{
-"name": "3 star",
-"count": 2500
-},
-{
-"name": "4 star",
-"count": 23000
-},
-{
-"name": "5 star",
-"count": 56800
-}
-]
-},
-{
-"id": 50,
-"title": "PlayStation",
-"companyName": "Sony",
-"image": "https://cdn.simpleicons.org/playstation",
-"description": "PlayStation app",
-"size": 100,
-"reviews": 70000,
-"ratingAvg": 4.6,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 800
-},
-{
-"name": "2 star",
-"count": 1200
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 18000
-},
-{
-"name": "5 star",
-"count": 48000
-}
-]
-},
-{
-"id": 51,
-"title": "Nintendo",
-"companyName": "Nintendo",
-"image": "https://cdn.simpleicons.org/nintendo",
-"description": "Nintendo app",
-"size": 90,
-"reviews": 60000,
-"ratingAvg": 4.5,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 700
-},
-{
-"name": "2 star",
-"count": 1100
-},
-{
-"name": "3 star",
-"count": 1800
-},
-{
-"name": "4 star",
-"count": 16000
-},
-{
-"name": "5 star",
-"count": 40400
-}
-]
-},
-{
-"id": 52,
-"title": "Android",
-"companyName": "Google",
-"image": "https://cdn.simpleicons.org/android",
-"description": "Android app",
-"size": 50,
-"reviews": 150000,
-"ratingAvg": 4.7,
-"downloads": 10000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 2000
-},
-{
-"name": "2 star",
-"count": 3000
-},
-{
-"name": "3 star",
-"count": 5000
-},
-{
-"name": "4 star",
-"count": 40000
-},
-{
-"name": "5 star",
-"count": 100000
-}
-]
-},
-{
-"id": 53,
-"title": "Apple",
-"companyName": "Apple",
-"image": "https://cdn.simpleicons.org/apple",
-"description": "Apple app",
-"size": 55,
-"reviews": 140000,
-"ratingAvg": 4.7,
-"downloads": 10000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 2000
-},
-{
-"name": "2 star",
-"count": 3000
-},
-{
-"name": "3 star",
-"count": 4000
-},
-{
-"name": "4 star",
-"count": 35000
-},
-{
-"name": "5 star",
-"count": 96000
-}
-]
-},
-{
-"id": 54,
-"title": "Safari",
-"companyName": "Apple",
-"image": "https://cdn.simpleicons.org/safari",
-"description": "Safari app",
-"size": 60,
-"reviews": 60000,
-"ratingAvg": 4.5,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 700
-},
-{
-"name": "2 star",
-"count": 1000
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 14000
-},
-{
-"name": "5 star",
-"count": 43300
-}
-]
-},
-{
-"id": 55,
-"title": "Opera",
-"companyName": "Opera",
-"image": "https://cdn.simpleicons.org/opera",
-"description": "Opera app",
-"size": 70,
-"reviews": 65000,
-"ratingAvg": 4.6,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 600
-},
-{
-"name": "2 star",
-"count": 900
-},
-{
-"name": "3 star",
-"count": 1800
-},
-{
-"name": "4 star",
-"count": 15000
-},
-{
-"name": "5 star",
-"count": 46600
-}
-]
-},
-{
-"id": 56,
-"title": "Firefox",
-"companyName": "Mozilla",
-"image": "https://cdn.simpleicons.org/firefoxbrowser",
-"description": "Firefox app",
-"size": 75,
-"reviews": 70000,
-"ratingAvg": 4.6,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 700
-},
-{
-"name": "2 star",
-"count": 1000
-},
-{
-"name": "3 star",
-"count": 2000
-},
-{
-"name": "4 star",
-"count": 16000
-},
-{
-"name": "5 star",
-"count": 50300
-}
-]
-},
-{
-"id": 57,
-"title": "Brave",
-"companyName": "Brave",
-"image": "https://cdn.simpleicons.org/brave",
-"description": "Brave app",
-"size": 65,
-"reviews": 60000,
-"ratingAvg": 4.7,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 500
-},
-{
-"name": "2 star",
-"count": 800
-},
-{
-"name": "3 star",
-"count": 1500
-},
-{
-"name": "4 star",
-"count": 14000
-},
-{
-"name": "5 star",
-"count": 43200
-}
-]
-},
-{
-"id": 58,
-"title": "VLC",
-"companyName": "VideoLAN",
-"image": "https://cdn.simpleicons.org/vlcmediaplayer",
-"description": "VLC app",
-"size": 55,
-"reviews": 90000,
-"ratingAvg": 4.8,
-"downloads": 1000000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 400
-},
-{
-"name": "2 star",
-"count": 600
-},
-{
-"name": "3 star",
-"count": 1000
-},
-{
-"name": "4 star",
-"count": 15000
-},
-{
-"name": "5 star",
-"count": 73000
-}
-]
-},
-{
-"id": 59,
-"title": "WinRAR",
-"companyName": "RARLAB",
-"image": "https://cdn.simpleicons.org/winrar",
-"description": "WinRAR app",
-"size": 30,
-"reviews": 50000,
-"ratingAvg": 4.6,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 500
-},
-{
-"name": "2 star",
-"count": 700
-},
-{
-"name": "3 star",
-"count": 1200
-},
-{
-"name": "4 star",
-"count": 12000
-},
-{
-"name": "5 star",
-"count": 35600
-}
-]
-},
-{
-"id": 60,
-"title": "7zip",
-"companyName": "7zip",
-"image": "https://cdn.simpleicons.org/7zip",
-"description": "7zip app",
-"size": 25,
-"reviews": 45000,
-"ratingAvg": 4.7,
-"downloads": 500000000,
-"ratings": [
-{
-"name": "1 star",
-"count": 400
-},
-{
-"name": "2 star",
-"count": 600
-},
-{
-"name": "3 star",
-"count": 1000
-},
-{
-"name": "4 star",
-"count": 11000
-},
-{
-"name": "5 star",
-"count": 32000
-}
-]
-}
+  {
+    "id": 1,
+    "title": "Facebook",
+    "companyName": "Meta",
+    "image": "https://cdn.simpleicons.org/facebook",
+    "description": "The official Facebook app from Meta, designed to help you stay connected, productive, and entertained every day.",
+    "size": 70,
+    "reviews": 120000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 92000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Instagram",
+    "companyName": "Meta",
+    "image": "https://cdn.simpleicons.org/instagram",
+    "description": "The official Instagram app from Meta, designed to help you stay connected, productive, and entertained every day.",
+    "size": 80,
+    "reviews": 110000,
+    "ratingAvg": 4.5,
+    "downloads": 4000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 4000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 78000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "WhatsApp",
+    "companyName": "Meta",
+    "image": "https://cdn.simpleicons.org/whatsapp",
+    "description": "The official WhatsApp app from Meta, designed to help you stay connected, productive, and entertained every day.",
+    "size": 65,
+    "reviews": 200000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 6000
+      },
+      {
+        "name": "4 star",
+        "count": 40000
+      },
+      {
+        "name": "5 star",
+        "count": 149000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "YouTube",
+    "companyName": "Google",
+    "image": "https://cdn.simpleicons.org/youtube",
+    "description": "The official YouTube app from Google, designed to help you stay connected, productive, and entertained every day.",
+    "size": 95,
+    "reviews": 150000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 7000
+      },
+      {
+        "name": "4 star",
+        "count": 50000
+      },
+      {
+        "name": "5 star",
+        "count": 88000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Twitter",
+    "companyName": "X",
+    "image": "https://cdn.simpleicons.org/twitter",
+    "description": "The official Twitter app from X, designed to help you stay connected, productive, and entertained every day.",
+    "size": 60,
+    "reviews": 90000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 4000
+      },
+      {
+        "name": "3 star",
+        "count": 8000
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 56000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Spotify",
+    "companyName": "Spotify",
+    "image": "https://cdn.simpleicons.org/spotify",
+    "description": "The official Spotify app from Spotify, designed to help you stay connected, productive, and entertained every day.",
+    "size": 85,
+    "reviews": 90000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 4000
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 63000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Netflix",
+    "companyName": "Netflix",
+    "image": "https://cdn.simpleicons.org/netflix",
+    "description": "The official Netflix app from Netflix, designed to help you stay connected, productive, and entertained every day.",
+    "size": 110,
+    "reviews": 80000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 50000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Telegram",
+    "companyName": "Telegram",
+    "image": "https://cdn.simpleicons.org/telegram",
+    "description": "The official Telegram app from Telegram, designed to help you stay connected, productive, and entertained every day.",
+    "size": 72,
+    "reviews": 60000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 1500
+      },
+      {
+        "name": "3 star",
+        "count": 3000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 39500
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Discord",
+    "companyName": "Discord",
+    "image": "https://cdn.simpleicons.org/discord",
+    "description": "The official Discord app from Discord, designed to help you stay connected, productive, and entertained every day.",
+    "size": 90,
+    "reviews": 50000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 12000
+      },
+      {
+        "name": "5 star",
+        "count": 34500
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
+    "image": "https://cdn.simpleicons.org/linkedin",
+    "description": "The official LinkedIn app from Microsoft, designed to help you stay connected, productive, and entertained every day.",
+    "size": 88,
+    "reviews": 45000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600
+      },
+      {
+        "name": "2 star",
+        "count": 1200
+      },
+      {
+        "name": "3 star",
+        "count": 3000
+      },
+      {
+        "name": "4 star",
+        "count": 10000
+      },
+      {
+        "name": "5 star",
+        "count": 30200
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Snapchat",
+    "companyName": "Snap",
+    "image": "https://cdn.simpleicons.org/snapchat",
+    "description": "The official Snapchat app from Snap, designed to help you stay connected, productive, and entertained every day.",
+    "size": 75,
+    "reviews": 50000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 12000
+      },
+      {
+        "name": "5 star",
+        "count": 34500
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "image": "https://cdn.simpleicons.org/pinterest",
+    "description": "The official Pinterest app from Pinterest, designed to help you stay connected, productive, and entertained every day.",
+    "size": 70,
+    "reviews": 40000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 12000
+      },
+      {
+        "name": "5 star",
+        "count": 24500
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Reddit",
+    "companyName": "Reddit",
+    "image": "https://cdn.simpleicons.org/reddit",
+    "description": "The official Reddit app from Reddit, designed to help you stay connected, productive, and entertained every day.",
+    "size": 80,
+    "reviews": 45000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 900
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 11000
+      },
+      {
+        "name": "5 star",
+        "count": 30100
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Uber",
+    "companyName": "Uber",
+    "image": "https://cdn.simpleicons.org/uber",
+    "description": "The official Uber app from Uber, designed to help you stay connected, productive, and entertained every day.",
+    "size": 85,
+    "reviews": 60000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600
+      },
+      {
+        "name": "2 star",
+        "count": 1100
+      },
+      {
+        "name": "3 star",
+        "count": 3000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 40300
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Airbnb",
+    "companyName": "Airbnb",
+    "image": "https://cdn.simpleicons.org/airbnb",
+    "description": "The official Airbnb app from Airbnb, designed to help you stay connected, productive, and entertained every day.",
+    "size": 95,
+    "reviews": 55000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 900
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 37700
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "PayPal",
+    "companyName": "PayPal",
+    "image": "https://cdn.simpleicons.org/paypal",
+    "description": "The official PayPal app from PayPal, designed to help you stay connected, productive, and entertained every day.",
+    "size": 65,
+    "reviews": 70000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 700
+      },
+      {
+        "name": "2 star",
+        "count": 1200
+      },
+      {
+        "name": "3 star",
+        "count": 2500
+      },
+      {
+        "name": "4 star",
+        "count": 17000
+      },
+      {
+        "name": "5 star",
+        "count": 48600
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Amazon",
+    "companyName": "Amazon",
+    "image": "https://cdn.simpleicons.org/amazon",
+    "description": "The official Amazon app from Amazon, designed to help you stay connected, productive, and entertained every day.",
+    "size": 100,
+    "reviews": 150000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 30000
+      },
+      {
+        "name": "5 star",
+        "count": 110000
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Google",
+    "companyName": "Google",
+    "image": "https://cdn.simpleicons.org/google",
+    "description": "The official Google app from Google, designed to help you stay connected, productive, and entertained every day.",
+    "size": 50,
+    "reviews": 200000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 40000
+      },
+      {
+        "name": "5 star",
+        "count": 150000
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Chrome",
+    "companyName": "Google",
+    "image": "https://cdn.simpleicons.org/googlechrome",
+    "description": "The official Chrome app from Google, designed to help you stay connected, productive, and entertained every day.",
+    "size": 120,
+    "reviews": 210000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3000
+      },
+      {
+        "name": "2 star",
+        "count": 4000
+      },
+      {
+        "name": "3 star",
+        "count": 6000
+      },
+      {
+        "name": "4 star",
+        "count": 50000
+      },
+      {
+        "name": "5 star",
+        "count": 147000
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Gmail",
+    "companyName": "Google",
+    "image": "https://cdn.simpleicons.org/gmail",
+    "description": "The official Gmail app from Google, designed to help you stay connected, productive, and entertained every day.",
+    "size": 45,
+    "reviews": 180000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 40000
+      },
+      {
+        "name": "5 star",
+        "count": 130000
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Google Maps",
+    "companyName": "Google",
+    "image": "https://cdn.simpleicons.org/googlemaps",
+    "description": "The official Google Maps app from Google, designed to help you stay connected, productive, and entertained every day.",
+    "size": 95,
+    "reviews": 150000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 30000
+      },
+      {
+        "name": "5 star",
+        "count": 110000
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Google Drive",
+    "companyName": "Google",
+    "image": "https://cdn.simpleicons.org/googledrive",
+    "description": "The official Google Drive app from Google, designed to help you stay connected, productive, and entertained every day.",
+    "size": 80,
+    "reviews": 120000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1500
+      },
+      {
+        "name": "2 star",
+        "count": 2500
+      },
+      {
+        "name": "3 star",
+        "count": 4000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 87000
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Google Photos",
+    "companyName": "Google",
+    "image": "https://cdn.simpleicons.org/googlephotos",
+    "description": "The official Google Photos app from Google, designed to help you stay connected, productive, and entertained every day.",
+    "size": 75,
+    "reviews": 110000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1200
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 3500
+      },
+      {
+        "name": "4 star",
+        "count": 22000
+      },
+      {
+        "name": "5 star",
+        "count": 82300
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Microsoft",
+    "companyName": "Microsoft",
+    "image": "https://cdn.simpleicons.org/microsoft",
+    "description": "The official Microsoft app from Microsoft, designed to help you stay connected, productive, and entertained every day.",
+    "size": 60,
+    "reviews": 90000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 4000
+      },
+      {
+        "name": "4 star",
+        "count": 18000
+      },
+      {
+        "name": "5 star",
+        "count": 65000
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Word",
+    "companyName": "Microsoft",
+    "image": "https://cdn.simpleicons.org/microsoftword",
+    "description": "The official Word app from Microsoft, designed to help you stay connected, productive, and entertained every day.",
+    "size": 85,
+    "reviews": 95000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 3000
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 69000
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Excel",
+    "companyName": "Microsoft",
+    "image": "https://cdn.simpleicons.org/microsoftexcel",
+    "description": "The official Excel app from Microsoft, designed to help you stay connected, productive, and entertained every day.",
+    "size": 90,
+    "reviews": 90000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 900
+      },
+      {
+        "name": "2 star",
+        "count": 1500
+      },
+      {
+        "name": "3 star",
+        "count": 2500
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 65100
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "PowerPoint",
+    "companyName": "Microsoft",
+    "image": "https://cdn.simpleicons.org/microsoftpowerpoint",
+    "description": "The official PowerPoint app from Microsoft, designed to help you stay connected, productive, and entertained every day.",
+    "size": 92,
+    "reviews": 88000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 800
+      },
+      {
+        "name": "2 star",
+        "count": 1500
+      },
+      {
+        "name": "3 star",
+        "count": 2500
+      },
+      {
+        "name": "4 star",
+        "count": 19000
+      },
+      {
+        "name": "5 star",
+        "count": 64200
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Outlook",
+    "companyName": "Microsoft",
+    "image": "https://cdn.simpleicons.org/microsoftoutlook",
+    "description": "The official Outlook app from Microsoft, designed to help you stay connected, productive, and entertained every day.",
+    "size": 70,
+    "reviews": 75000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 700
+      },
+      {
+        "name": "2 star",
+        "count": 1200
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 56100
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "OneDrive",
+    "companyName": "Microsoft",
+    "image": "https://cdn.simpleicons.org/microsoftonedrive",
+    "description": "The official OneDrive app from Microsoft, designed to help you stay connected, productive, and entertained every day.",
+    "size": 68,
+    "reviews": 65000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600
+      },
+      {
+        "name": "2 star",
+        "count": 1100
+      },
+      {
+        "name": "3 star",
+        "count": 1800
+      },
+      {
+        "name": "4 star",
+        "count": 14000
+      },
+      {
+        "name": "5 star",
+        "count": 47500
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Xbox",
+    "companyName": "Microsoft",
+    "image": "https://cdn.simpleicons.org/xbox",
+    "description": "The official Xbox app from Microsoft, designed to help you stay connected, productive, and entertained every day.",
+    "size": 100,
+    "reviews": 70000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 900
+      },
+      {
+        "name": "3 star",
+        "count": 1600
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 52000
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "image": "https://cdn.simpleicons.org/tiktok",
+    "description": "The official TikTok app from ByteDance, designed to help you stay connected, productive, and entertained every day.",
+    "size": 95,
+    "reviews": 200000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3000
+      },
+      {
+        "name": "2 star",
+        "count": 4000
+      },
+      {
+        "name": "3 star",
+        "count": 6000
+      },
+      {
+        "name": "4 star",
+        "count": 50000
+      },
+      {
+        "name": "5 star",
+        "count": 137000
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "CapCut",
+    "companyName": "ByteDance",
+    "image": "https://cdn.simpleicons.org/capcut",
+    "description": "The official CapCut app from ByteDance, designed to help you stay connected, productive, and entertained every day.",
+    "size": 85,
+    "reviews": 150000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 30000
+      },
+      {
+        "name": "5 star",
+        "count": 110000
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Canva",
+    "companyName": "Canva",
+    "image": "https://cdn.simpleicons.org/canva",
+    "description": "The official Canva app from Canva, designed to help you stay connected, productive, and entertained every day.",
+    "size": 90,
+    "reviews": 140000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 4000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 108000
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Zoom",
+    "companyName": "Zoom",
+    "image": "https://cdn.simpleicons.org/zoom",
+    "description": "The official Zoom app from Zoom, designed to help you stay connected, productive, and entertained every day.",
+    "size": 75,
+    "reviews": 130000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1200
+      },
+      {
+        "name": "2 star",
+        "count": 2500
+      },
+      {
+        "name": "3 star",
+        "count": 4000
+      },
+      {
+        "name": "4 star",
+        "count": 26000
+      },
+      {
+        "name": "5 star",
+        "count": 96300
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Skype",
+    "companyName": "Microsoft",
+    "image": "https://cdn.simpleicons.org/skype",
+    "description": "The official Skype app from Microsoft, designed to help you stay connected, productive, and entertained every day.",
+    "size": 70,
+    "reviews": 60000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 800
+      },
+      {
+        "name": "2 star",
+        "count": 1200
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 41000
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Slack",
+    "companyName": "Slack",
+    "image": "https://cdn.simpleicons.org/slack",
+    "description": "The official Slack app from Slack, designed to help you stay connected, productive, and entertained every day.",
+    "size": 80,
+    "reviews": 50000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 1800
+      },
+      {
+        "name": "4 star",
+        "count": 12000
+      },
+      {
+        "name": "5 star",
+        "count": 34600
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Notion",
+    "companyName": "Notion",
+    "image": "https://cdn.simpleicons.org/notion",
+    "description": "The official Notion app from Notion, designed to help you stay connected, productive, and entertained every day.",
+    "size": 85,
+    "reviews": 45000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 800
+      },
+      {
+        "name": "3 star",
+        "count": 1500
+      },
+      {
+        "name": "4 star",
+        "count": 11000
+      },
+      {
+        "name": "5 star",
+        "count": 31200
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Trello",
+    "companyName": "Atlassian",
+    "image": "https://cdn.simpleicons.org/trello",
+    "description": "The official Trello app from Atlassian, designed to help you stay connected, productive, and entertained every day.",
+    "size": 78,
+    "reviews": 42000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 700
+      },
+      {
+        "name": "3 star",
+        "count": 1300
+      },
+      {
+        "name": "4 star",
+        "count": 10000
+      },
+      {
+        "name": "5 star",
+        "count": 29700
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "GitHub",
+    "companyName": "GitHub",
+    "image": "https://cdn.simpleicons.org/github",
+    "description": "The official GitHub app from GitHub, designed to help you stay connected, productive, and entertained every day.",
+    "size": 65,
+    "reviews": 50000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 500
+      },
+      {
+        "name": "3 star",
+        "count": 900
+      },
+      {
+        "name": "4 star",
+        "count": 9000
+      },
+      {
+        "name": "5 star",
+        "count": 39200
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "GitLab",
+    "companyName": "GitLab",
+    "image": "https://cdn.simpleicons.org/gitlab",
+    "description": "The official GitLab app from GitLab, designed to help you stay connected, productive, and entertained every day.",
+    "size": 60,
+    "reviews": 35000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 400
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 7000
+      },
+      {
+        "name": "5 star",
+        "count": 26600
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Adobe",
+    "companyName": "Adobe",
+    "image": "https://cdn.simpleicons.org/adobe",
+    "description": "The official Adobe app from Adobe, designed to help you stay connected, productive, and entertained every day.",
+    "size": 100,
+    "reviews": 80000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 800
+      },
+      {
+        "name": "2 star",
+        "count": 1200
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 18000
+      },
+      {
+        "name": "5 star",
+        "count": 58000
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Photoshop",
+    "companyName": "Adobe",
+    "image": "https://cdn.simpleicons.org/adobephotoshop",
+    "description": "The official Photoshop app from Adobe, designed to help you stay connected, productive, and entertained every day.",
+    "size": 150,
+    "reviews": 90000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 700
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 66300
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Illustrator",
+    "companyName": "Adobe",
+    "image": "https://cdn.simpleicons.org/adobeillustrator",
+    "description": "The official Illustrator app from Adobe, designed to help you stay connected, productive, and entertained every day.",
+    "size": 140,
+    "reviews": 70000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600
+      },
+      {
+        "name": "2 star",
+        "count": 900
+      },
+      {
+        "name": "3 star",
+        "count": 1500
+      },
+      {
+        "name": "4 star",
+        "count": 16000
+      },
+      {
+        "name": "5 star",
+        "count": 51000
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Figma",
+    "companyName": "Figma",
+    "image": "https://cdn.simpleicons.org/figma",
+    "description": "The official Figma app from Figma, designed to help you stay connected, productive, and entertained every day.",
+    "size": 90,
+    "reviews": 60000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 700
+      },
+      {
+        "name": "3 star",
+        "count": 1200
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 42600
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Blender",
+    "companyName": "Blender",
+    "image": "https://cdn.simpleicons.org/blender",
+    "description": "The official Blender app from Blender, designed to help you stay connected, productive, and entertained every day.",
+    "size": 200,
+    "reviews": 65000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 600
+      },
+      {
+        "name": "3 star",
+        "count": 900
+      },
+      {
+        "name": "4 star",
+        "count": 14000
+      },
+      {
+        "name": "5 star",
+        "count": 49100
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Unity",
+    "companyName": "Unity",
+    "image": "https://cdn.simpleicons.org/unity",
+    "description": "The official Unity app from Unity, designed to help you stay connected, productive, and entertained every day.",
+    "size": 220,
+    "reviews": 70000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 800
+      },
+      {
+        "name": "3 star",
+        "count": 1200
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 52500
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Unreal",
+    "companyName": "Epic",
+    "image": "https://cdn.simpleicons.org/unrealengine",
+    "description": "The official Unreal app from Epic, designed to help you stay connected, productive, and entertained every day.",
+    "size": 230,
+    "reviews": 65000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 600
+      },
+      {
+        "name": "3 star",
+        "count": 900
+      },
+      {
+        "name": "4 star",
+        "count": 13000
+      },
+      {
+        "name": "5 star",
+        "count": 50100
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Steam",
+    "companyName": "Valve",
+    "image": "https://cdn.simpleicons.org/steam",
+    "description": "The official Steam app from Valve, designed to help you stay connected, productive, and entertained every day.",
+    "size": 120,
+    "reviews": 90000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 3000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 59000
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Epic Games",
+    "companyName": "Epic",
+    "image": "https://cdn.simpleicons.org/epicgames",
+    "description": "The official Epic Games app from Epic, designed to help you stay connected, productive, and entertained every day.",
+    "size": 110,
+    "reviews": 85000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 900
+      },
+      {
+        "name": "2 star",
+        "count": 1800
+      },
+      {
+        "name": "3 star",
+        "count": 2500
+      },
+      {
+        "name": "4 star",
+        "count": 23000
+      },
+      {
+        "name": "5 star",
+        "count": 56800
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "PlayStation",
+    "companyName": "Sony",
+    "image": "https://cdn.simpleicons.org/playstation",
+    "description": "The official PlayStation app from Sony, designed to help you stay connected, productive, and entertained every day.",
+    "size": 100,
+    "reviews": 70000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 800
+      },
+      {
+        "name": "2 star",
+        "count": 1200
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 18000
+      },
+      {
+        "name": "5 star",
+        "count": 48000
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Nintendo",
+    "companyName": "Nintendo",
+    "image": "https://cdn.simpleicons.org/nintendo",
+    "description": "The official Nintendo app from Nintendo, designed to help you stay connected, productive, and entertained every day.",
+    "size": 90,
+    "reviews": 60000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 700
+      },
+      {
+        "name": "2 star",
+        "count": 1100
+      },
+      {
+        "name": "3 star",
+        "count": 1800
+      },
+      {
+        "name": "4 star",
+        "count": 16000
+      },
+      {
+        "name": "5 star",
+        "count": 40400
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Android",
+    "companyName": "Google",
+    "image": "https://cdn.simpleicons.org/android",
+    "description": "The official Android app from Google, designed to help you stay connected, productive, and entertained every day.",
+    "size": 50,
+    "reviews": 150000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 40000
+      },
+      {
+        "name": "5 star",
+        "count": 100000
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Apple",
+    "companyName": "Apple",
+    "image": "https://cdn.simpleicons.org/apple",
+    "description": "The official Apple app from Apple, designed to help you stay connected, productive, and entertained every day.",
+    "size": 55,
+    "reviews": 140000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 4000
+      },
+      {
+        "name": "4 star",
+        "count": 35000
+      },
+      {
+        "name": "5 star",
+        "count": 96000
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Safari",
+    "companyName": "Apple",
+    "image": "https://cdn.simpleicons.org/safari",
+    "description": "The official Safari app from Apple, designed to help you stay connected, productive, and entertained every day.",
+    "size": 60,
+    "reviews": 60000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 700
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 14000
+      },
+      {
+        "name": "5 star",
+        "count": 43300
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Opera",
+    "companyName": "Opera",
+    "image": "https://cdn.simpleicons.org/opera",
+    "description": "The official Opera app from Opera, designed to help you stay connected, productive, and entertained every day.",
+    "size": 70,
+    "reviews": 65000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 600
+      },
+      {
+        "name": "2 star",
+        "count": 900
+      },
+      {
+        "name": "3 star",
+        "count": 1800
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 46600
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Firefox",
+    "companyName": "Mozilla",
+    "image": "https://cdn.simpleicons.org/firefoxbrowser",
+    "description": "The official Firefox app from Mozilla, designed to help you stay connected, productive, and entertained every day.",
+    "size": 75,
+    "reviews": 70000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 700
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 16000
+      },
+      {
+        "name": "5 star",
+        "count": 50300
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Brave",
+    "companyName": "Brave",
+    "image": "https://cdn.simpleicons.org/brave",
+    "description": "The official Brave app from Brave, designed to help you stay connected, productive, and entertained every day.",
+    "size": 65,
+    "reviews": 60000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 800
+      },
+      {
+        "name": "3 star",
+        "count": 1500
+      },
+      {
+        "name": "4 star",
+        "count": 14000
+      },
+      {
+        "name": "5 star",
+        "count": 43200
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "VLC",
+    "companyName": "VideoLAN",
+    "image": "https://cdn.simpleicons.org/vlcmediaplayer",
+    "description": "The official VLC app from VideoLAN, designed to help you stay connected, productive, and entertained every day.",
+    "size": 55,
+    "reviews": 90000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 600
+      },
+      {
+        "name": "3 star",
+        "count": 1000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 73000
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "WinRAR",
+    "companyName": "RARLAB",
+    "image": "https://cdn.simpleicons.org/winrar",
+    "description": "The official WinRAR app from RARLAB, designed to help you stay connected, productive, and entertained every day.",
+    "size": 30,
+    "reviews": 50000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 700
+      },
+      {
+        "name": "3 star",
+        "count": 1200
+      },
+      {
+        "name": "4 star",
+        "count": 12000
+      },
+      {
+        "name": "5 star",
+        "count": 35600
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "7zip",
+    "companyName": "7zip",
+    "image": "https://cdn.simpleicons.org/7zip",
+    "description": "The official 7zip app from 7zip, designed to help you stay connected, productive, and entertained every day.",
+    "size": 25,
+    "reviews": 45000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 600
+      },
+      {
+        "name": "3 star",
+        "count": 1000
+      },
+      {
+        "name": "4 star",
+        "count": 11000
+      },
+      {
+        "name": "5 star",
+        "count": 32000
+      }
+    ]
+  }
 ]
