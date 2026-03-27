@@ -2,6 +2,7 @@ import React from 'react'
 import { Link, useLoaderData } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faComments, faDownload, faStar } from '@fortawesome/free-solid-svg-icons'
+import { Bar, BarChart, CartesianGrid, ResponsiveContainer, XAxis, YAxis } from 'recharts'
 import { useInstallations } from '../../context/InstallationsContextValue.jsx'
 import { useToast } from '../../context/ToastContextValue.jsx'
 import { formatDownloads, formatPlainNumber, formatRating } from '../../utils/formatNumbers.jsx'
@@ -63,13 +64,7 @@ const AppDetails = () => {
   const maxRatingValue = ratingValues.length > 0 ? Math.max(...ratingValues) : 0
   const ratingStep = Math.max(1000, Math.ceil(maxRatingValue / 4 / 1000) * 1000)
   const ratingTicks = Array.from({ length: 5 }, (_, index) => ratingStep * index)
-
-  const getBarWidth = (value) => {
-    if (!maxRatingValue) {
-      return '0%'
-    }
-    return `${(value / maxRatingValue) * 100}%`
-  }
+  const ratingDomainMax = ratingTicks[ratingTicks.length - 1] || ratingStep
 
   const descriptionParagraphs = (app.description ?? '')
     .split('\n')
@@ -120,24 +115,29 @@ const AppDetails = () => {
         <div className="space-y-6 border-t border-slate-200 pt-6">
           <h2 className="text-5xl font-semibold text-[#2C2F67] sm:text-4xl">Ratings</h2>
 
-          <div className="space-y-4">
-            {ratings.map((rating) => (
-              <div key={rating.name} className="flex items-center gap-4">
-                <span className="w-16 text-2xl text-slate-500 sm:text-base">{rating.name}</span>
-                <div className="h-4 flex-1 bg-slate-100">
-                  <div
-                    className="h-full bg-[#10C98D]"
-                    style={{ width: getBarWidth(rating.count) }}
-                  />
-                </div>
-              </div>
-            ))}
-          </div>
-
-          <div className="flex justify-between border-t border-slate-300 pt-2 text-xl font-medium text-slate-500 sm:text-sm">
-            {ratingTicks.map((tick) => (
-              <span key={tick}>{String(tick)}</span>
-            ))}
+          <div className="h-80 w-full">
+            <ResponsiveContainer width="100%" height="100%">
+              <BarChart data={ratings} layout="vertical" margin={{ top: 8, right: 0, left: 0, bottom: 0 }}>
+                <CartesianGrid horizontal={false} vertical={false} />
+                <XAxis
+                  type="number"
+                  domain={[0, ratingDomainMax]}
+                  ticks={ratingTicks}
+                  tick={{ fill: '#64748b', fontSize: 14 }}
+                  axisLine={{ stroke: '#cbd5e1' }}
+                  tickLine={false}
+                />
+                <YAxis
+                  type="category"
+                  dataKey="name"
+                  tick={{ fill: '#64748b', fontSize: 16 }}
+                  axisLine={false}
+                  tickLine={false}
+                  width={70}
+                />
+                <Bar dataKey="count" fill="#10C98D" background={{ fill: '#e2e8f0' }} barSize={14} />
+              </BarChart>
+            </ResponsiveContainer>
           </div>
 
           <div className="flex items-center justify-center gap-2 text-xl font-semibold text-[#10C98D] sm:text-base">
